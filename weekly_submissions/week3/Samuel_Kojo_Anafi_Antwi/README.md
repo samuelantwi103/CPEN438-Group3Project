@@ -22,10 +22,10 @@ Coordinate integration, assemble the report, and chair demo preparation — maki
 ## Individual Contribution Form (fill in before submission)
 
 - **Name & role:** Samuel Kojo Anafi Antwi — Project Manager & Systems Integrator
-- **Specific artefacts I personally authored:** _______________________
-- **Specific tests I personally ran:** _______________________
-- **Specific results I personally interpreted:** _______________________
-- **Git commit hashes attributable to me:** _______________________
-- **Report section(s) I personally wrote:** _______________________
-- **Live defence component I am prepared to present/defend:** _______________________
-- **Estimated % of total team effort (self-assessed):** _______________________
+- **Specific artefacts I personally authored:** `README.md` (repo root), `weekly_reports/week1_report.md`, `weekly_reports/week2_report.md`, `week3/weekly_reports/week3_report.md`, `week3/demo/mid_project_demo_script.md`, `week3/README.md`, this submission packet
+- **Specific tests I personally ran:** None of the kernel/harness unit tests directly (Kumi's and Amponsah's evidence, not mine) — what I verified personally was that every file path cited across the three weekly reports and the demo script still resolved to a real file in the repository before signing off on each report, catching several stale references in the process
+- **Specific results I personally interpreted:** Not the underlying hardware-counter measurements themselves — my interpretation work was assembling the Week 1–3 progress narrative into one coherent story (the "~35% → ~70% → ~90%" completion trajectory across the three weekly reports) and flagging where a reported figure needed a caveat (e.g. the demo script's note on run-to-run variance in the innovation results) rather than presenting it as exact
+- **Git commit hashes attributable to me:** `5fb09e7` (initial commit), `a4da5d1`/`8c04ae4` (Week 1 report), `0de8ce5`/`d01b59b` (Week 2 report), `3335f19` (mid-project demo script), `b1a5e05` (Week 3 report), `9cc77f3` (this submission packet)
+- **Report section(s) I personally wrote:** All three weekly reports (Week 1–3) end to end, and the mid-project demo script's Segment 1 ("What GH-Bench is")
+- **Live defence component I am prepared to present/defend:** Segment 1 of the demo script — the 1-minute project overview — plus, per the brief's own example checkpoint question for this role: *"Walk me through last week's commit history."*
+- **Estimated % of total team effort (self-assessed):** ~35% as of Week 3, based on commit share (8 of ~23 substantive commits at this point) — weighted toward documentation/report volume rather than code; adjust if it doesn't feel right
