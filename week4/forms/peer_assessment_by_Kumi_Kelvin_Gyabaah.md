@@ -4,12 +4,12 @@ Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Per the brief's Part V §9
 
 | Teammate name | Technical contribution (1–5) | Reliability/met deadlines (1–5) | Communication (1–5) | Contribution to defence readiness (1–5) | One specific example of their best contribution |
 |---|---|---|---|---|---|
-| Samuel Kojo Anafi Antwi | 5 | 5 | 5 | | |
-| Amponsah Jonathan Boadu | 5 | 5 | 5 | | |
-| Obed Ninson | 5 | 5 | 5 | | |
+| Samuel Kojo Anafi Antwi | 5 | 5 | 5 | 5 | Assembled and maintained the full technical report and all four weekly reports, and caught stale file-path references across the documentation during Week 3–4 integration passes. |
+| Amponsah Jonathan Boadu | 5 | 5 | 5 | 5 | Built the `perf_event_open` hardware-counter measurement harness and ran the full experiment matrix and OpenMP scaling sweep. |
+| Obed Ninson | 5 | 5 | 5 | 5 | Reproduced the MATLAB roofline formulas directly in Python when MATLAB was unavailable during Week 4 validation, and disclosed the substitution honestly. |
 
 **Optional free-text** — "Is there anything the instructor should know about how this team functioned?" (read only by the instructor, never shared verbatim with teammates):
 
 _______________________________________________________________
 
-Signature: _________________________________ Date: ______________
+Signature: Kumi Kelvin Gyabaah Date: 2026-08-28
