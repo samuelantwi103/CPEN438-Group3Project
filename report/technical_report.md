@@ -1,6 +1,6 @@
 # Roofline Reckoning: Quantitative Performance Characterisation of Ghanaian Fintech and Climate Workloads on Multicore Architectures
 
-**Group 3 — Samuel Kojo Anafi Antwi, Amponsah Jonathan Boadu, Kumi Kelvin Gyabaah, Obed Ninson**
+**Group 3 — Samuel Kojo Anafi Antwi (11164744), Amponsah Jonathan Boadu (11293871), Kumi Kelvin Gyabaah (11012343), Obed Ninson (11238291), Theophilus Owusu-Manu (10985130)**
 CPEN 438 — Advanced Computer Architecture Systems and Design, University of Ghana, Legon
 Project 1 of the course's 15-project portfolio. **Week 4 final technical report.**
 

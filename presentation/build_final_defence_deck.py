@@ -80,7 +80,9 @@ p3.font.size = Pt(16)
 p3.font.italic = True
 p3.font.color.rgb = ACCENT
 p4 = tf.add_paragraph()
-p4.text = "Samuel Kojo Anafi Antwi · Amponsah Jonathan Boadu · Kumi Kelvin Gyabaah · Obed Ninson"
+p4.text = ("Samuel Kojo Anafi Antwi (11164744) · Amponsah Jonathan Boadu (11293871) · "
+           "Kumi Kelvin Gyabaah (11012343) · Obed Ninson (11238291) · "
+           "Theophilus Owusu-Manu (10985130)")
 p4.font.size = Pt(14)
 p4.font.color.rgb = GREY
 
