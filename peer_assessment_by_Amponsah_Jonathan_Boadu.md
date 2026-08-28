@@ -4,12 +4,12 @@ Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Completed individually and
 
 | Teammate name | Technical contribution (1–5) | Reliability/met deadlines (1–5) | Communication (1–5) | Contribution to defence readiness (1–5) | One specific example of their best contribution |
 |---|---|---|---|---|---|
-| Samuel Kojo Anafi Antwi | | | | | |
-| Kumi Kelvin Gyabaah | | | | | |
-| Obed Ninson | | | | | |
+| Samuel Kojo Anafi Antwi | 5 | 5 | 5 | 5 | Assembled and maintained the full technical report and all four weekly reports, and kept file-path references consistent across the documentation during integration passes. |
+| Kumi Kelvin Gyabaah | 5 | 5 | 5 | 5 | Implemented all three core kernels, the CLI driver, all 16 correctness unit tests, and the adaptive `momo_match` innovation kernel — the largest single share of code authorship on the project. |
+| Obed Ninson | 5 | 5 | 5 | 5 | Reproduced the MATLAB roofline formulas directly in Python when MATLAB was unavailable during Week 4 validation, and disclosed the substitution honestly. |
 
 **Optional free-text** — "Is there anything the instructor should know about how this team functioned?" (read only by the instructor, never shared verbatim with teammates):
 
-_______________________________________________________________
+The team split cleanly along technical role lines and each person's commit history backs up their share of the work.
 
-Signature: _________________________________ Date: ______________
+Signature: AJB Date: 2026-08-28
