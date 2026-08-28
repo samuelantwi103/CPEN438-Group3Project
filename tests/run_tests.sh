@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # run_tests.sh — compile and run the kernel correctness unit tests.
-# Project 1: Roofline Reckoning, CPEN 315/733, Group 3
+# Project 1: Roofline Reckoning, CPEN 438, Group 3
 # Owner: Kumi Kelvin Gyabaah (C/C++ Implementation Lead)
 #
 # Usage: ./tests/run_tests.sh   (from anywhere; paths are script-relative)

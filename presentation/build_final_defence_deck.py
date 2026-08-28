@@ -2,7 +2,7 @@
 """
 build_final_defence_deck.py — generates week4/presentation/final_defence_deck.pptx
 
-Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Week 4 deliverable
+Project 1: Roofline Reckoning, CPEN 438, Group 3. Week 4 deliverable
 (brief Part V §15: "Presentation slides (paper-review deck AND final
 defence deck) present in presentation/" — this is the SECOND, separate
 deck; the paper-review deck from Week 1 stays where it is and is not
@@ -75,7 +75,7 @@ p2.text = "Quantitative Performance Characterisation of Ghanaian Fintech and Cli
 p2.font.size = Pt(20)
 p2.font.color.rgb = GREY
 p3 = tf.add_paragraph()
-p3.text = "Final Defence — Project 1, Group 3, CPEN 315/733"
+p3.text = "Final Defence — Project 1, Group 3, CPEN 438"
 p3.font.size = Pt(16)
 p3.font.italic = True
 p3.font.color.rgb = ACCENT

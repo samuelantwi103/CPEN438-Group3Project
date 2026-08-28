@@ -1,6 +1,6 @@
 # Peer Assessment — completed by Amponsah Jonathan Boadu
 
-Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Completed individually and confidentially by each team member. Ratings 1 (well below expectations) to 5 (well above expectations).
+Project 1: Roofline Reckoning, CPEN 438, Group 3. Completed individually and confidentially by each team member. Ratings 1 (well below expectations) to 5 (well above expectations).
 
 | Teammate name | Technical contribution (1–5) | Reliability/met deadlines (1–5) | Communication (1–5) | Contribution to defence readiness (1–5) | One specific example of their best contribution |
 |---|---|---|---|---|---|

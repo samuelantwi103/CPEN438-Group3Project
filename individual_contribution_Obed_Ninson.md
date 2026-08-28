@@ -1,6 +1,6 @@
 # Individual Contribution Statement — Obed Ninson
 
-Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Role: Python/MATLAB + Test/Docs Lead.
+Project 1: Roofline Reckoning, CPEN 438, Group 3. Role: Python/MATLAB + Test/Docs Lead.
 
 | Field | Content |
 |---|---|

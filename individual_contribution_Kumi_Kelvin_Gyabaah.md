@@ -1,6 +1,6 @@
 # Individual Contribution Statement — Kumi Kelvin Gyabaah
 
-Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Role: C/C++ Implementation & Performance Lead.
+Project 1: Roofline Reckoning, CPEN 438, Group 3. Role: C/C++ Implementation & Performance Lead.
 
 | Field | Content |
 |---|---|

@@ -1,6 +1,6 @@
 # Individual Contribution Statement — Amponsah Jonathan Boadu
 
-Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Role: Computer Architecture & Hardware/Perf Lead.
+Project 1: Roofline Reckoning, CPEN 438, Group 3. Role: Computer Architecture & Hardware/Perf Lead.
 
 | Field | Content |
 |---|---|

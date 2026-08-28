@@ -1,6 +1,6 @@
 # AI-Use Declaration — GH-Bench (Project 1: Roofline Reckoning)
 
-CPEN 315/733, Group 3. Maintained per the course integrity framework (master brief §7, §8). One row per instance of AI use. **This log must be kept honest and updated weekly — do not delete or retroactively edit entries.**
+CPEN 438, Group 3. Maintained per the course integrity framework (master brief §7, §8). One row per instance of AI use. **This log must be kept honest and updated weekly — do not delete or retroactively edit entries.**
 
 ## Summary (read this first)
 

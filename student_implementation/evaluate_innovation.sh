@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # evaluate_innovation.sh — sweeps problem size and compares the adaptive
 # kernel against both fixed baselines (always-sequential, always-parallel).
-# Project 1: Roofline Reckoning, CPEN 315/733, Group 3, Week 3
+# Project 1: Roofline Reckoning, CPEN 438, Group 3, Week 3
 #
 # Owner: Obed Ninson (Python/MATLAB + Test/Docs Lead)
 #

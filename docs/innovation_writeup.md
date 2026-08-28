@@ -1,6 +1,6 @@
 # Innovation & Creativity Challenge — Adaptive `momo_match`
 
-Project 1: Roofline Reckoning, CPEN 315/733, Group 3. **Week 3 deliverable** (brief §N: "each team proposes and implements one original enhancement to GH-Bench, technically justified, experimentally evaluated against the un-enhanced baseline, and defended at the final presentation"). This implements the brief's own first example: *"an adaptive kernel that switches between a memory-bound and compute-bound algorithmic variant based on a runtime arithmetic-intensity probe."*
+Project 1: Roofline Reckoning, CPEN 438, Group 3. **Week 3 deliverable** (brief §N: "each team proposes and implements one original enhancement to GH-Bench, technically justified, experimentally evaluated against the un-enhanced baseline, and defended at the final presentation"). This implements the brief's own first example: *"an adaptive kernel that switches between a memory-bound and compute-bound algorithmic variant based on a runtime arithmetic-intensity probe."*
 
 ## The problem this solves
 

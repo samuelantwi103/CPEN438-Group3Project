@@ -1,6 +1,6 @@
 # Mid-Project Demo Script
 
-Project 1: Roofline Reckoning, CPEN 315/733, Group 3. **Week 3 deliverable** (brief §4: "mid-project demo"). Rehearse this exact sequence before presenting — every command below has been run for real (see `week3/integration/run_full_pipeline.sh`, which is this script's automated form), so nothing here should surprise you live.
+Project 1: Roofline Reckoning, CPEN 438, Group 3. **Week 3 deliverable** (brief §4: "mid-project demo"). Rehearse this exact sequence before presenting — every command below has been run for real (see `week3/integration/run_full_pipeline.sh`, which is this script's automated form), so nothing here should surprise you live.
 
 **Total time budget: ~12 minutes.** Practice with a timer.
 

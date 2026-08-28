@@ -1,6 +1,6 @@
 /*
  * test_kernels.c — correctness unit tests for kernels.c
- * Project 1: Roofline Reckoning, CPEN 315/733, Group 3
+ * Project 1: Roofline Reckoning, CPEN 438, Group 3
  *
  * Owner: Kumi Kelvin Gyabaah (C/C++ Implementation Lead)
  *

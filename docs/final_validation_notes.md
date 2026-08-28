@@ -1,6 +1,6 @@
 # Final Validation Notes — Week 4
 
-Project 1: Roofline Reckoning, CPEN 315/733, Group 3. **Week 4 deliverable** (Project 1's own Week-4 schedule: "Finish MATLAB analytical model validation"). This re-confirms the analytical model against the current, final experiment data before the technical report cites any number from it.
+Project 1: Roofline Reckoning, CPEN 438, Group 3. **Week 4 deliverable** (Project 1's own Week-4 schedule: "Finish MATLAB analytical model validation"). This re-confirms the analytical model against the current, final experiment data before the technical report cites any number from it.
 
 ## A finding worth stating plainly: MATLAB became unavailable during this session
 

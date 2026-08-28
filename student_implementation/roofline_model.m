@@ -1,5 +1,5 @@
 % roofline_model.m — standalone Roofline + Amdahl's-Law model
-% (Project 1: Roofline Reckoning, CPEN 315/733, Group 3)
+% (Project 1: Roofline Reckoning, CPEN 438, Group 3)
 %
 % Owner: Obed Ninson (Python/MATLAB + Test/Docs Lead)
 %

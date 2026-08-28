@@ -1,6 +1,6 @@
 # Individual Contribution Statement — Samuel Kojo Anafi Antwi
 
-Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Role: Project Manager & Systems Integrator.
+Project 1: Roofline Reckoning, CPEN 438, Group 3. Role: Project Manager & Systems Integrator.
 
 | Field | Content |
 |---|---|

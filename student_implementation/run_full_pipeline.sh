@@ -6,7 +6,7 @@
 # separately by four people across three weeks actually function as one
 # system, not four disconnected parts.
 #
-# Project 1: Roofline Reckoning, CPEN 315/733, Group 3
+# Project 1: Roofline Reckoning, CPEN 438, Group 3
 # Run from WSL2 Ubuntu (needs perf_event_open, taskset, gcc, python3):
 #   bash week3/integration/run_full_pipeline.sh
 set -euo pipefail

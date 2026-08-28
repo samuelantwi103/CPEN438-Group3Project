@@ -1,6 +1,6 @@
 /*
  * adaptive_momo_match.c — Week 3 Innovation & Creativity Challenge
- * Project 1: Roofline Reckoning, CPEN 315/733, Group 3
+ * Project 1: Roofline Reckoning, CPEN 438, Group 3
  *
  * Brief §N names two example innovations; this implements the first:
  * "an adaptive kernel that switches between a memory-bound and

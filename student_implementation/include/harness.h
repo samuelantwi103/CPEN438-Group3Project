@@ -1,6 +1,6 @@
 /*
  * harness.h — GH-Bench measurement harness (Project 1: Roofline Reckoning)
- * CPEN 315/733, Group 3
+ * CPEN 438, Group 3
  *
  * Owner: Amponsah Jonathan Boadu (Hardware/Perf Lead)
  *

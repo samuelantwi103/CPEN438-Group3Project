@@ -1,7 +1,7 @@
 # Roofline Reckoning: Quantitative Performance Characterisation of Ghanaian Fintech and Climate Workloads on Multicore Architectures
 
 **Group 3 — Samuel Kojo Anafi Antwi, Amponsah Jonathan Boadu, Kumi Kelvin Gyabaah, Obed Ninson**
-CPEN 315 / CPEN 733 — Advanced Computer Architecture Systems and Design, University of Ghana, Legon
+CPEN 438 — Advanced Computer Architecture Systems and Design, University of Ghana, Legon
 Project 1 of the course's 15-project portfolio. **Week 4 final technical report.**
 
 *Formatting note: this document is written in Markdown/Word and follows IEEE technical-report section conventions (Abstract, Introduction, Related Work, Methodology, Results, Discussion, Conclusion, References) rather than the two-column IEEE conference template — the team should reflow into the exact IEEE conference template columns/margins as a final formatting pass before submission if the course requires the literal template, since that is a layout step, not a content one.*

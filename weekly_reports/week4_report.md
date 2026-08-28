@@ -1,6 +1,6 @@
 # Weekly Course Project Report — Week 4
 
-**Course Code and Title:** CPEN 315 / CPEN 733 — Advanced Computer Architecture Systems and Design
+**Course Code and Title:** CPEN 438 — Advanced Computer Architecture Systems and Design
 **Project Title:** Project 1 — Roofline Reckoning
 **Team Number/Name:** Group 3
 **Reporting Week:** Week 4 (Final) — Period: 2026-08-24 to 2026-08-30 *(provisional dates — team to confirm the actual Week 4 deadline with the instructor and correct if different)*

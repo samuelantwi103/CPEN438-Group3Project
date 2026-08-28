@@ -1,6 +1,6 @@
 # Harness Validation Notes — Hardware Counter Availability
 
-Project 1: Roofline Reckoning, CPEN 315/733, Group 3.
+Project 1: Roofline Reckoning, CPEN 438, Group 3.
 Owner: Amponsah Jonathan Boadu (Hardware/Perf Lead)
 
 The brief's §G requires cycle/time, cache-miss, and FLOP measurement "via perf or Cachegrind," and its Instructor Notes anticipate perf being unavailable in some environments, with Valgrind/Cachegrind as the documented fallback. Neither `perf` nor Valgrind exist on this team's native Windows/MinGW toolchain. Two things were checked and documented before deciding on an approach.

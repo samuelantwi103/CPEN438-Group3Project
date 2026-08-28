@@ -1,6 +1,6 @@
 /*
  * kernels.h — GH-Bench kernel signatures (Project 1: Roofline Reckoning)
- * CPEN 315/733, Group 3
+ * CPEN 438, Group 3
  *
  * Owner: Kumi Kelvin Gyabaah (C/C++ Implementation Lead)
  *
