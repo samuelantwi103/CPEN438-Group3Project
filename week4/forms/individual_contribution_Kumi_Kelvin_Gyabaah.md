@@ -5,8 +5,8 @@ Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Role: C/C++ Implementation
 | Field | Content |
 |---|---|
 | Name & role | Kumi Kelvin Gyabaah — C/C++ Implementation & Performance Lead |
-| Specific code/hardware artefacts personally authored | `[FILL IN]` |
-| Specific tests personally written or run | `[FILL IN]` |
+| Specific code/hardware artefacts personally authored | `kernels.c`/`kernels.h` (all three kernels: `momo_match`, `cocobod_yield_regression`, `rainfall_interpolate`), `gh_bench.c` (CLI driver), `tests/test_kernels.c` + `tests/run_tests.sh` (16 correctness unit tests), `analyze.py`, `plots.py`, `roofline_model.m`, `week3/innovation/adaptive_momo_match.c` and its evaluation harness (`week3/innovation/evaluate_innovation.sh`, `results/innovation_results.jsonl`), `week3/docs/innovation_writeup.md` |
+| Specific tests personally written or run | All 16 correctness fixtures in `tests/test_kernels.c` — 6 for `momo_match` (exact match, beyond/within epsilon, ID not present, mixed batch, bytes-moved reporting), 5 for `cocobod_yield_regression` (noiseless-line recovery, perfect-fit R², residual sum, R² range, constant-yield zero slope), 5 for `rainfall_interpolate` (no-missing passthrough, single-missing, distance-weighting, no-valid-neighbour fallback, corner-missing crash safety). I wrote and ran every one via `tests/run_tests.sh` and hand-verified the expected values against the kernel math before committing. |
 | Specific results personally interpreted | `[FILL IN]` |
 | Git commit hashes attributable to me | `[FILL IN]` |
 | Section(s) of the final report personally written | `[FILL IN]` |
