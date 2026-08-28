@@ -4,9 +4,9 @@ Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Per the brief's Part V §9
 
 | Teammate name | Technical contribution (1–5) | Reliability/met deadlines (1–5) | Communication (1–5) | Contribution to defence readiness (1–5) | One specific example of their best contribution |
 |---|---|---|---|---|---|
-| Samuel Kojo Anafi Antwi | 5 | | | | |
-| Amponsah Jonathan Boadu | 5 | | | | |
-| Obed Ninson | 5 | | | | |
+| Samuel Kojo Anafi Antwi | 5 | 5 | 5 | | |
+| Amponsah Jonathan Boadu | 5 | 5 | 5 | | |
+| Obed Ninson | 5 | 5 | 5 | | |
 
 **Optional free-text** — "Is there anything the instructor should know about how this team functioned?" (read only by the instructor, never shared verbatim with teammates):
 
