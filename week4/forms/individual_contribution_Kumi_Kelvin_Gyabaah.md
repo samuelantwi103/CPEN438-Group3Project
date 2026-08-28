@@ -10,7 +10,9 @@ Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Role: C/C++ Implementation
 | Specific results personally interpreted | The innovation-kernel evaluation results in `results/innovation_results.jsonl` (Week 3): interpreted `adaptive_momo_match`'s performance across problem sizes and wrote up the findings in `week3/docs/innovation_writeup.md`. |
 | Git commit hashes attributable to me | `b9fa952` (implement momo_match, cocobod_yield_regression, rainfall_interpolate), `6c5bb13` (gh_bench CLI driver), `b8eede1` (16 correctness unit tests), `98e83e0` (analyze.py, plots.py, roofline_model.m), `4e7dfec` (adaptive innovation kernel), `d2734ef` (evaluate innovation kernel across problem sizes), `3935054` (write up innovation results), `bc55fe5`/`748f2b8` (Week 3 submission packet). |
 | Section(s) of the final report personally written | `week3/docs/innovation_writeup.md` (adaptive `momo_match` innovation results and analysis), and the C/C++ implementation details feeding the kernels/testing subsections of the final technical report. |
-| Live defence component prepared to present/defend | `[FILL IN]` |
-| Estimated % of total team effort (self-assessed) | `[FILL IN]` |
+| Live defence component prepared to present/defend | Per the brief's own example checkpoint question for this role: *"Add a fourth kernel signature live."* Prepared to re-derive the FLOP counts for all three existing kernels by hand and sketch a fourth kernel's signature/loop structure live, following the same interface pattern as `momo_match`/`cocobod_yield_regression`/`rainfall_interpolate` in `kernels.c`. |
+| Estimated % of total team effort (self-assessed) | ~30%, based on commit share (9 of my own commits) and being sole author of all three core kernels, the CLI driver, the full correctness test suite, and the innovation kernel — the largest single share of code authorship on the project. |
 
-Signature: _________________________________ Date: ______________
+**Before signing:** re-read `kernels.c` line by line and be able to re-derive the FLOP counts in each kernel by hand — this is the file most likely to draw a live "trace this case" defence question, and you need to be able to answer it unaided.
+
+Signature: Kumi Kelvin Gyabaah Date: 2026-08-28
