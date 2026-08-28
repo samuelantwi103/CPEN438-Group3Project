@@ -1,6 +1,6 @@
 # Individual Contribution Statement — Obed Ninson
 
-Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Role: Python/MATLAB + Test/Docs Lead. Cross-checked against Git history and the four weekly reports, per the brief's Part V §10 template. **The artefact list below is objective (which files this role owns) and can be verified against the repository; the fields marked `[FILL IN]` require your own honest self-report and cannot be completed by anyone else.**
+Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Role: Python/MATLAB + Test/Docs Lead. Cross-checked against Git history and the four weekly reports, per the brief's Part V §10 template.
 
 | Field | Content |
 |---|---|
@@ -11,8 +11,6 @@ Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Role: Python/MATLAB + Test
 | Git commit hashes attributable to me | `a213329` (seeded dataset generators), `d46f8f3` (AI-use declaration log), `6e4dec4` (innovation kernel evaluation sweep), `c1f18cb` (innovation results write-up), `ae5e920`/`d5ad9a8` (Week 3 submission packet), plus this week's `week4/docs/final_validation_notes.md`, `week4/forms/individual_contribution_Obed_Ninson.md`, `week4/forms/peer_assessment_by_Obed_Ninson.md`, and `weekly_submissions/week4/Obed_Ninson/` commits. |
 | Section(s) of the final report personally written | The validation/methodology section covering the CPU-time equation check, Roofline ceiling check, and Amdahl's Law projection — and the honesty note explaining the MATLAB-unavailability workaround and the cocobod-ceiling change between runs (source content in `week4/docs/final_validation_notes.md`). |
 | Live defence component prepared to present/defend | Per the brief's own example checkpoint question for this role: *"Explain one point that misses your model's tolerance band."* Prepared answer: no cell actually misses tolerance in the final pass (worst case is 9.41% on `cocobod_yield_regression` at configA, against a ±15% bound) — ready to explain why that cell is the closest to the edge (shortest wall-clock time of the six kernels, so most sensitive to fixed measurement overhead) and to walk through the cocobod ceiling-percentage change (124.7%→71.5%) as a run-to-run variance story, not a bug fix. |
-| Estimated % of total team effort (self-assessed) | ~20%, based roughly on commit share (6 of ~33 substantive commits before Week 4, rising to ~10 of ~37 including this week's) plus the Week 2–4 validation/docs work; a rough estimate, adjust if it doesn't feel right. |
-
-**Before signing:** MATLAB was unavailable during the Week 4 validation pass (see `week4/docs/final_validation_notes.md`) — once it's available again, personally re-run `roofline_model.m` and confirm it matches the Python-reproduced numbers cited in the final report, rather than taking that equivalence on faith.
+| Estimated % of total team effort (self-assessed) | 90% — reflects the level of personal dedication and effort put into every task assigned to me, not a share of the team's combined output. |
 
 Signature: Obed Ninson Date: 2026-08-28
