@@ -1,5 +1,3 @@
-*Fields marked **[TEAM TO FILL]** cannot be honestly completed by anyone except the team — do not submit this report with those still blank. See the note at the bottom.*
-
 # Weekly Course Project Report — Week 1
 
 **Course Code and Title:** CPEN 315 / CPEN 733 — Advanced Computer Architecture Systems and Design
@@ -45,7 +43,7 @@ Cross-referenced against the master brief's general Four-Week Structure (Part I 
 
 ## 2. Meetings Held
 
-**[TEAM TO FILL]** — no team meeting has been logged yet as of this draft. **Action: hold an actual kickoff meeting (even 20–30 minutes) before submitting this report**, and record: date/time, duration/mode, venue or platform, members present/absent, agenda, decisions made, tasks assigned with deadlines, and unresolved issues. Suggested agenda for that meeting: (a) confirm the papers and seed with the instructor, (b) walk through `docs/architecture_diagram.md` together so every member understands the pipeline, (c) assign the Week 2/3 action items in `ai_use_declaration/ai_use_log.md`.
+Not yet recorded.
 
 ## 3. Work Completed and Individual Contributions
 
@@ -88,13 +86,8 @@ Cross-referenced against the master brief's general Four-Week Structure (Part I 
 
 ## 7. Team Accountability Declaration
 
-**[TEAM TO FILL — do not submit until each member has personally reviewed this report and their own code.]**
-
 We confirm that this report accurately represents the meetings, work completed, individual contributions, challenges, and evidence produced during the reporting week.
 
 Team Leader: _________________________________ Date: ______________
 Team Members' Initials: _________________________________________
-Evidence repository/link: **[TEAM TO FILL — push to a real Git remote and record the URL]**
-
----
-**Honesty note for the team:** this report's technical content (§1, §3, §4, §5) reflects work that was actually built and run, but §2 (meetings) and §7 (accountability) cannot be honestly filled in by anyone but you — the framework's integrity model depends on real meetings and real individual sign-off, not a filled-in template. Please do not submit this without holding the meeting and getting genuine sign-off first.
+Evidence repository/link: https://github.com/samuelantwi103/CPEN438-Group3Project

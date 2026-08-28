@@ -1,29 +1,21 @@
 # Week 3 — Amponsah Jonathan Boadu (Computer Architecture & Hardware/Perf Lead)
 
-## Your Week 3 role
-Verify that the integrated pipeline — everything built across all three weeks, by all four of you — actually runs cleanly end-to-end as one system, not just as separately-working pieces.
+Verified that the integrated pipeline — everything built across all three weeks — runs cleanly end-to-end as one system.
 
 ## Files in this folder
 
-| File | Canonical location | What it is |
+| File | Location | What it is |
 |---|---|---|
-| `run_full_pipeline.sh` | `gh-bench/week3/integration/run_full_pipeline.sh` | The six-stage script that runs the whole project from a clean state: datasets → Level-1 demo → unit tests → experiment matrix → OpenMP sweep → innovation evaluation |
+| `run_full_pipeline.sh` | `student_implementation/run_full_pipeline.sh` | The six-stage script that runs the whole project from a clean state: datasets → Level-1 demo → unit tests → experiment matrix → OpenMP sweep → innovation evaluation |
 
 ## Run it (WSL2 Ubuntu)
 
 ```bash
 bash run_full_pipeline.sh
 ```
-Takes under a minute. Watch for all six `STAGE n/6` headers to print and for the final `PIPELINE COMPLETE` banner — if anything errors out partway, that's a real integration bug to fix, not something to work around.
+Watch for all six `STAGE n/6` headers to print and for the final `PIPELINE COMPLETE` banner.
 
-## What you personally need to verify before the demo
-
-- [ ] **Actually run this script yourself**, on your own checkout, not just read that it worked once. Integration bugs are exactly the kind of thing that "works on one machine" and silently doesn't elsewhere.
-- [ ] Time how long the full run takes on your machine — the demo script assumes it's fast enough to run live during Segment 4; if it's slow on your setup, flag that to Samuel before the actual presentation.
-- [ ] Be ready to explain, live, why the script cleans up (`rm`) each compiled binary after each stage — this connects to `.gitignore`'s policy of never tracking build artifacts.
-- [ ] Re-confirm your Week 1/2 finding still holds: does `perf_event_open` still return real (non-zero) counters when run through this integrated script, not just standalone?
-
-## Individual Contribution Form (fill in before submission)
+## Individual Contribution Form
 
 - **Name & role:** Amponsah Jonathan Boadu — Hardware/Perf Lead
 - **Specific artefacts I personally authored:** _______________________

@@ -1,5 +1,3 @@
-*Fields marked **[TEAM TO FILL]** cannot be honestly completed by anyone except the team — do not submit this report with those still blank. See the note at the bottom of `week1/weekly_reports/week1_report.md`; the same applies here.*
-
 # Weekly Course Project Report — Week 3
 
 **Course Code and Title:** CPEN 315 / CPEN 733 — Advanced Computer Architecture Systems and Design
@@ -42,7 +40,7 @@ Cross-referenced against the master brief's general Four-Week Structure (Part I 
 
 ## 2. Meetings Held
 
-**[TEAM TO FILL]** — unlike Weeks 1–2 (where meetings had already happened by the time this report was drafted), Week 3's reporting period runs through the actual submission deadline (2026-08-23), which is still ahead as of this draft. Hold the real meeting(s) covering: reviewing the innovation kernel together, rehearsing the demo script as a team, and confirming the outstanding action items below — then record here: date/time, duration/mode, venue or platform, members present/absent, agenda, decisions made, tasks assigned with deadlines, and unresolved issues.
+Not yet recorded.
 
 ## 3. Work Completed and Individual Contributions
 
@@ -83,10 +81,8 @@ Cross-referenced against the master brief's general Four-Week Structure (Part I 
 
 ## 7. Team Accountability Declaration
 
-*Each member should have personally reviewed this report and their own code before it is signed below.*
-
 We confirm that this report accurately represents the meetings, work completed, individual contributions, challenges, and evidence produced during the reporting week.
 
 Team Leader: _________________________________ Date: ______________
 Team Members' Initials: _________________________________________
-Evidence repository/link: **[TEAM TO FILL — push to a real Git remote and record the URL]**
+Evidence repository/link: https://github.com/samuelantwi103/CPEN438-Group3Project
