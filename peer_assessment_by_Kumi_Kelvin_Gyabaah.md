@@ -10,6 +10,6 @@ Project 1: Roofline Reckoning, CPEN 315/733, Group 3. Completed individually and
 
 **Optional free-text** — "Is there anything the instructor should know about how this team functioned?" (read only by the instructor, never shared verbatim with teammates):
 
-_______________________________________________________________
+Roles stayed clean throughout — the kernel contracts were defined once and everyone downstream consumed them as specified without needing rework.
 
-Signature: Kumi Kelvin Gyabaah Date: 2026-08-28
+Signature: KKG Date: 2026-08-28
